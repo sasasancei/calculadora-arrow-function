@@ -1,0 +1,28 @@
+body{
+  align-items: center;
+ 
+
+}
+
+legend{
+  font-size: 15px;
+  color: black
+ 
+}
+
+.caixa{
+
+  color: white;
+  text-align: center;
+  width:280px;
+  background-color: pink;
+}
+
+.resultado{
+font-size: 20px;
+color: white;
+width: 15vw;
+height: 100px;
+background-color: white;
+
+}
